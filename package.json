@@ -23,7 +23,6 @@
     "test": "npm run lint && npm run build && npm run ava"
   },
   "devDependencies": {
-    "ace": "git+https://github.com/ajaxorg/ace.git",
     "ava": "^0.18.1",
     "colorable": "^1.0.5",
     "css-parse": "2.0.0",
